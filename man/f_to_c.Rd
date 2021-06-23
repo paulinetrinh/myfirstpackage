@@ -7,7 +7,7 @@
 f_to_c(temp_F)
 }
 \arguments{
-\item{tempF}{Numeric input indicating temperature in Fahrenheit.}
+\item{temp_F}{Numeric input indicating temperature in Fahrenheit.}
 }
 \value{
 Numeric indicating temperature \code{temp_F} converted to Celsius.
