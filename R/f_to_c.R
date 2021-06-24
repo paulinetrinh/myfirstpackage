@@ -16,3 +16,5 @@ f_to_c <- function(temp_F) {
   temp_C <- (temp_F - 32) * 5 / 9
   return(temp_C)
 }
+
+# okay I'm going to make some changes via comments and see how this works on github.
